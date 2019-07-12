@@ -1,0 +1,5 @@
+export const Auth_ERROR = 'auth_error'
+export const Auth_SUCCESS = 'auth_success'
+export const COOKIE_SAVE = 'cookie_save'
+export const UP_DATA = 'up_data'
+export const LOGOUT = 'logout'

@@ -1,0 +1,28 @@
+.am-card-header-content img {
+    width: 32px;
+    height: 32px;
+}
+
+.container {
+    padding-top: 45px;
+    padding-bottom: 50px;
+}
+
+.navBar {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 100;
+}
+
+.am-result-pic img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.am-list-item .avatar, .am-list-item .am-list-thumb img {
+    width: 32px ;
+    height: 32px;
+    border-radius: 50%;
+}

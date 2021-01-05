@@ -5,7 +5,7 @@
   "proxy": "http://localhost:9093/",
   "dependencies": {
     "antd-mobile": "^2.2.11",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "browser-cookies": "^1.2.0",
     "cookie-parser": "^1.4.4",
     "immutable": "^4.0.0-rc.12",
